@@ -41,7 +41,7 @@ education purpose only
                                                                                                                                                                          
                                                                                                                                                                          
 [+] MAC Address before change -> 00:44:55:66:77:66                                                                                                                        
-1                                                                                                                                                                        
+
 [+] Changing the MAC Address to 00:44:55:66:77:66                                                                                                                        
                                                                                                                                                                          
 [+] MAC Address after change -> 00:44:55:66:77:66                                                                                                                        
