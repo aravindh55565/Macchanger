@@ -36,9 +36,9 @@ root@kali:/home/kali# python3 macchanger.py -i eth0 -m 00:44:55:66:77:66
                                                                                                                                                                       
                                                                                                                                                                          
 [+] MAC Address before change -> 00:44:55:66:77:66                                                                                                                        
-1                                                                                                                                                                        
+                                                                                                                                                                       
 [+] Changing the MAC Address to 00:44:55:66:77:66                                                                                                                        
-                                                                                                                                                                         
+                                                                                                                                                                       
 [+] MAC Address after change -> 00:44:55:66:77:66                                                                                                                        
-                                                                                                                                                                         
+                                                                                                                                                                      
 [+] MAC Adress was successfully changed from 00:44:55:66:77:66 to 00:44:55:66:77:66      
