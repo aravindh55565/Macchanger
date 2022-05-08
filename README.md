@@ -25,26 +25,5 @@ Options:
                         New MAC Address
 
 
-
-
-                        
-step:3
-
-
-
-root@kali:/home/kali# python3 macchanger.py -i eth0 -m 00:44:55:66:77:66                                                                                        
-                                     
-education purpose only                                                                                                                                                  
-                                                                                                                                                                         
-                                                                                                                                                                         
- https://www.instagram.com/arav.indh7393/?igshid=YmMyMTA2M2Y                                                                                                              
-                                                                                                                                                                         
-                                                                                                                                                                         
-[+] MAC Address before change -> 00:44:55:66:77:66                                                                                                                        
-
-[+] Changing the MAC Address to 00:44:55:66:77:66                                                                                                                        
-                                                                                                                                                                         
-[+] MAC Address after change -> 00:44:55:66:77:66                                                                                                                        
-                                                                                                                                                                         
-[+] MAC Adress was successfully changed from 00:44:55:66:77:66 to 00:44:55:66:77:66                                                                                                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                                                                                                      
 ![macchanger](https://user-images.githubusercontent.com/96677228/167302609-8f1f40ef-0cba-450c-968f-014691405173.jpeg)
