@@ -16,10 +16,12 @@ Usage: macchanger.py [options]
 Options:                                                                                                                                                   
   -h, --help            show this help message and exit                                                                                                    
                                                                                                                                                            
-  required arguments:                                                                                                                                      
-    -i INTERFACE, --interface=INTERFACE                                                                                                                    
+ 
+ 
+ required arguments:                                                                                                                                      
+    -i    INTERFACE,   --interface=INTERFACE                                                                                                                    
                         Interface name whose MAC is to be changed                                                                                          
-    -m NEW_MAC, --mac=NEW_MAC                                                                                                                              
+    -m     NEW_MAC,     --mac=NEW_MAC                                                                                                                              
                         New MAC Address
 
 
@@ -28,10 +30,11 @@ Options:
                         
 step:3
 
+
+
 root@kali:/home/kali# python3 macchanger.py -i eth0 -m 00:44:55:66:77:66                                                                                        
                                      
-                                     
-                                                                   
+                                                               
 
  education purpose only                                                                                                                                     
                                                                                                                                                            
@@ -42,10 +45,10 @@ Usage: macchanger.py [options]
 Options:                                                                                                                                                   
   -h, --help            show this help message and exit                                                                                                    
                                                                                                                                                            
-  required arguments:                                                                                                                                      
-    -i INTERFACE, --interface=INTERFACE                                                                                                                    
-                        Interface name whose MAC is to be changed                                                                                          
-    -m NEW_MAC, --mac=NEW_MAC                                                                                                                              
-                        New MAC Address                                                                                                                                                                       
+ required arguments: 
+    -i    INTERFACE,  --interface=INTERFACE                                                                                                                    
+                              Interface name whose MAC is to be changed                                                                                          
+    -m     NEW_MAC,      --mac=NEW_MAC                                                                                                                              
+                              New MAC Address                                                                                                                                                                       
                                                                                                                                                                        
                                                                                                                                                                      
