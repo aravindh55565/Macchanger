@@ -4,26 +4,17 @@ pip install -r requirement.txt
 
 step:2
 
-root@kali:/home/kali# python3 macchanger.py -h                                                                                                    
-                                                                                                                                                                                                                                                                                                                                                                                                                                        
- education purpose only                                                                                                                                    
-                                                                                                                                                           
-                                                                                                                                                           
- https://www.instagram.com/arav.indh7393/?igshid=YmMyMTA2M2Y                                                                                               
-                                                                                                                                                           
-Usage: macchanger.py [options]                                                                                                                             
-                                                                                                                                                           
-Options:                                                                                                                                                   
-  -h, --help            show this help message and exit                                                                                                    
-                                                                                                                                                           
- 
- 
- required arguments:                                                                                                                                      
-      -i    INTERFACE,   --interface=INTERFACE                                                                                                                    
-                        Interface name whose MAC is to be changed                                                                                          
-      -m     NEW_MAC,     --mac=NEW_MAC                                                                                                                              
-                        New MAC Address
 
 
-                                                                                                                                                                                                                                                                                                                                      
+
+![WhatsApp Image 2022-05-08 at 4 12 45 PM](https://user-images.githubusercontent.com/96677228/167302933-755caa93-a92b-4418-b489-9b738611786b.jpeg)
+
+
+                                                                                                                                                                         
+ step:3
+ 
+ 
+ 
+ 
+ 
 ![macchanger](https://user-images.githubusercontent.com/96677228/167302609-8f1f40ef-0cba-450c-968f-014691405173.jpeg)
